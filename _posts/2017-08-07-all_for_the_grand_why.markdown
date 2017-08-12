@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All for the Grand “Why?”"
-date:   2017-08-07 23:57:24 +0000
+date:   2017-08-07 19:57:25 -0400
 ---
 
 
