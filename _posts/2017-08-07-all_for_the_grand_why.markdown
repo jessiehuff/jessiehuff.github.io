@@ -15,9 +15,10 @@ On a more practical note, there is an absolute need for developers right now. I 
 
 Enter Flatiron School, stage right. 
 I was beyond excited to start my programming journey since I’m a complete nerd. I get my jollies by learning new things and programming was just the medicine I needed. That’s not to say that it hasn’t been challenging. My goodness is it difficult most days. This is how I usually feel: 
+
  ![](http://s2.quickmeme.com/img/99/9903c7c14add3fd0758b7b5b80c24d48101f296f13ce34736799a82c71f61bc2.jpg)
 
 There’s something empowering though about struggling through challenging problems, learning a whole new way of thinking and problem solving. While most days are filled with staring at my computer in a stupor and wondering if I have coffee in my veins now instead of blood after the millionth cup, it’s incredibly rewarding to finally figure out a frustrating problem. I think why is a huge problem that we face as developers. Why doesn’t this code work? Why does it work now? Why did I stare at a screen for hours just to realize the mistake was a simple typo? At the end of the day though, I think it all comes down to creating something beautiful. While simple, writing beautiful code is a science and an art. 
 
- ![]https://s-media-cache-ak0.pinimg.com/736x/36/ab/81/36ab81cd8d63cf7c4a08f39403698c77--python-programming-programming-humor.jpg()
+ ![](https://s-media-cache-ak0.pinimg.com/736x/36/ab/81/36ab81cd8d63cf7c4a08f39403698c77--python-programming-programming-humor.jpg)
 
