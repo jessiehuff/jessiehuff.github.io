@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "**Array Cheat Sheet**"
-date:   2017-09-27 15:42:18 +0000
+title:  "Array Cheat Sheet"
+date:   2017-09-27 11:42:19 -0400
 ---
 
 Early on in my coding journey, I found remembering all of the array commands pretty challenging. So I thought I'd put together a cheat sheet for anyone who is going through the same thing or anyone who just needs an quick reference. 
