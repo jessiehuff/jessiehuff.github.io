@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Enumerators"
-date:       2017-10-09 19:48:47 +0000
+date:       2017-10-09 15:48:47 -0400
 permalink:  enumerators
 ---
 
@@ -12,7 +12,7 @@ Most methods have two forms: a block form where the contents are evaluated for e
 In other words, such cool tools to master! 
 I'm going to break down the basic ones that I've been using recently. 
 
-## Boolean Enumerators:
+# Boolean Enumerators:
 
 **#all?** - the block passed to it must return true for every iteration
 
@@ -29,7 +29,7 @@ I'm going to break down the basic ones that I've been using recently.
 **#include?** – will return true if the given object exists in the element. If it doesn’t find a match, it will return false. 
 ![](https://i.imgur.com/v9IfbaM.png)
  
-## Search Enumerators:
+# Search Enumerators:
 **#select** - return value will be a new array containing all the elements of the collection that cause the block passed to #select to return true
 
 ![](https://i.imgur.com/5qhcSRk.png)
