@@ -12,7 +12,7 @@ I pretty much devour any book, article, or video on the topic that I can get my 
 Inspiro is an inspirational program that allows users to choose from different forms of content to spark their thoughts and passions. It draws videos from Ted Talks, articles from Goalcast, and Quotes from wiseoldsayings.com, making it easier for users to view all of this content quickly. 
 
 
-## The Process
+# The Process
 
 I was beyond excited to begin this passion project and create something of my own. I did plenty of research to get some ideas, and after planning exactly what I wanted to achieve and my thoughts on how to do it, I started writing my code. It was a long process, but the first day was mostly one of excitement. After running into some consistent hurdles, I reached out for some advice from JJ Seymour, and he helped me narrow down my CSS selectors for scraping the websites, and we worked on debugging with the binding.pry method, pretty much my favorite thing ever. After thirty minutes of talking to JJ, I felt fired up to keep working through my ideas. 
 
