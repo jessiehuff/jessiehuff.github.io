@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Inspiro- the inspirational app"
-date:       2017-10-11 16:03:03 +0000
+date:       2017-10-11 12:03:04 -0400
 permalink:  inspiro-_the_inspirational_app
 ---
 
@@ -12,7 +12,7 @@ I pretty much devour any book, article, or video on the topic that I can get my 
 Inspiro is an inspirational program that allows users to choose from different forms of content to spark their thoughts and passions. It draws videos from Ted Talks, articles from Goalcast, and Quotes from wiseoldsayings.com, making it easier for users to view all of this content quickly. 
 
 
-# The Process
+## The Process
 
 I was beyond excited to begin this passion project and create something of my own. I did plenty of research to get some ideas, and after planning exactly what I wanted to achieve and my thoughts on how to do it, I started writing my code. It was a long process, but the first day was mostly one of excitement. After running into some consistent hurdles, I reached out for some advice from JJ Seymour, and he helped me narrow down my CSS selectors for scraping the websites, and we worked on debugging with the binding.pry method, pretty much my favorite thing ever. After thirty minutes of talking to JJ, I felt fired up to keep working through my ideas. 
 
@@ -30,7 +30,7 @@ I can’t say that I didn’t struggle at all to create the app. The hardest par
 Despite the frustrations, I’m so excited and proud of my app!
 
 If you’re interested in seeing the final product and how it all works, watch the walkthrough here: 
-https://youtu.be/Lpr2sYvQwLE 
+[https://youtu.be/Lpr2sYvQwLE](https://youtu.be/Lpr2sYvQwLE)
 
 
 
