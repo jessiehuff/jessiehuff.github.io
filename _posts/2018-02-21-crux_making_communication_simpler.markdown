@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Crux: Making Communication Simpler"
-date:       2018-02-21 18:21:15 +0000
+title:      "Crux: making communication simpler"
+date:       2018-02-21 13:21:16 -0500
 permalink:  crux_making_communication_simpler
 ---
 
@@ -24,12 +24,16 @@ Home page where users sign up or sign in
 
 Once signed in, users have their Projects home page which displays all the projects the team is working on. From there, they can select a Project.
 
+![https://i.imgur.com/FAODyHN.png?1](https://i.imgur.com/FAODyHN.png?1)
+
 * Each project has a description and a tag (to determine which department is assigned to that project, i.e. Marketing, Development, Human Resources, etc.)
 * Project Messages- where team members can discuss all project related items. 
 * Project Tasks- what specific actions still need to be completed for this project
-   *	When users go to “All Tasks” for a project, they can see all of the project’s tasks specified by which tasks are active and which are already completed. 
 
-![https://i.imgur.com/FAODyHN.png?1](https://i.imgur.com/FAODyHN.png?1)   ![https://i.imgur.com/LOh3cXb.png?1](https://i.imgur.com/LOh3cXb.png?1)  ![https://i.imgur.com/NuKR183.png?2](https://i.imgur.com/NuKR183.png?2)
+![https://i.imgur.com/LOh3cXb.png?1](https://i.imgur.com/LOh3cXb.png?1)
+   *	When users go to “All Tasks” for a project, they can see all of the project’s tasks specified by which tasks are active and which are already completed. 
+   
+![https://i.imgur.com/NuKR183.png?2](https://i.imgur.com/NuKR183.png?2)
 
 **Associations:**
 
