@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Refining Crux"
-date:       2018-05-19 01:57:59 +0000
+date:       2018-05-18 21:58:00 -0400
 permalink:  refining_crux
 ---
 
 If you’ve been following my blog for a while, you may notice that I’m a big fan of communication and connection. I’ve noticed that proper communication is a major issue for countless organizations which is what inspired my last blog and project- Crux. 
 
-If you missed that blog, you can read it here: http://jessiehuff.com/crux_making_communication_simpler
+If you missed that blog, you can read it here: [http://jessiehuff.com/crux_making_communication_simpler](http://jessiehuff.com/crux_making_communication_simpler)
 
 Since creating the project management application, it was time to give it more functionality with some JavaScript. First on the list of things to do is to stop redirecting or doing page refreshes and start rendering via jQuery and an Active Model Serialization JSON Backend. Which essentially means some pretty AJAX requests, the backend rendering the items in JSON format and then appending them to the page or submitting the forms. I also translated the JSON responses into JavaScript Model Objects. 
 
