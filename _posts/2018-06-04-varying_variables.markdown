@@ -15,7 +15,9 @@ Of course, with anything in programming, you can always go deeper in each of the
 **Hoisting**- where the program pulls the specific variables and functions to the top level of code so that they’re loaded into memory during the compile phase
 
 
-## Differences in Variables: 
+
+## **Differences in Variables**: 
+
 •	**`var`**- the variable may or may not be reassigned, and the variable may or may not be used for an entire function, or just for the purpose of a block or loop
 * **Var declarations** are globally scoped or function/locally scoped. 
      * It is *globally scoped* when a var variable is declared outside a function. This means that any variable that is declared with var outside a function block is available for use in the whole window. 
@@ -35,7 +37,9 @@ Of course, with anything in programming, you can always go deeper in each of the
 * Every const declaration **must be initialized at the time of declaration**. The properties of this objects can be updated. 
 * 	**Hoisting**: like let, const declarations are hoisted to the top but are not initialized. 
 
-## Functions and Hoisting: 
+
+## **Functions and Hoisting**: 
+
 While variable names are hoisted and not defined, named functions has its entire function hoisted to the top and is accessible. Unnamed functions and function expressions do not get hoisted and so their variables are not accessible globally. 
 
 So, for example: 
@@ -48,7 +52,9 @@ So, for example:
 
 -	This does not get hoisted and so the variables are not accessible globally. 
 
-## Arrow Functions: 
+
+## **Arrow Functions**: 
+
 Arrow functions were introduced with ES6 as a new syntax for writing JavaScript functions. They save developers time and simplify function scope. They are a more concise syntax for writing function expressions. 
 
 -	An arrow function expression has a shorter syntax than a function expression and does not have its own this, arguments, super, or new.target. These function expressions are best suited for non-method functions, and they cannot be used as constructors.
