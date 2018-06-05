@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Varying Variables"
-date:       2018-06-05 00:08:15 +0000
+date:       2018-06-04 20:08:16 -0400
 permalink:  varying_variables
 ---
 
@@ -60,9 +60,9 @@ Arrow functions were introduced with ES6 as a new syntax for writing JavaScript 
 
 Resources for further information: 
 
-https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e
+[https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e](https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e)
 
-https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/
+[https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
