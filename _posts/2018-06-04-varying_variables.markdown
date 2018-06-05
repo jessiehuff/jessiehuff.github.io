@@ -15,7 +15,7 @@ Of course, with anything in programming, you can always go deeper in each of the
 **Hoisting**- where the program pulls the specific variables and functions to the top level of code so that they’re loaded into memory during the compile phase
 
 
-# **Differences in Variables**: 
+# Differences in Variables: 
 •	**`var`**- the variable may or may not be reassigned, and the variable may or may not be used for an entire function, or just for the purpose of a block or loop
 * **Var declarations** are globally scoped or function/locally scoped. 
      * It is *globally scoped* when a var variable is declared outside a function. This means that any variable that is declared with var outside a function block is available for use in the whole window. 
