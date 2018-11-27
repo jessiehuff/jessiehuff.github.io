@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Actively Learning with Active Storage"
-date:       2018-11-27 19:40:29 +0000
+date:       2018-11-27 14:40:30 -0500
 permalink:  actively_learning_with_active_storage
 ---
 
@@ -28,7 +28,7 @@ In the words of the official Rails documentation: “Active Storage facilitates 
 
 Basic documentation: 
 
-https://edgeguides.rubyonrails.org/active_storage_overview.html 
+[https://edgeguides.rubyonrails.org/active_storage_overview.html ](https://edgeguides.rubyonrails.org/active_storage_overview.html )
 
 Now I highly recommend starting there with the basic documentation. It explains how to set up Active Storage, choosing a storage location, attaching files on the rails side, removing files, direct uploads, etc. I’m also excited to see that it looks like they’ve recently added slightly more in terms of linking and image transformation with MiniMagick. 
 
