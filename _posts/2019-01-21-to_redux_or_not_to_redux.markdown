@@ -13,7 +13,7 @@ As someone who loves React, there’s often the question of whether to add Redux
 Redux is a state management tool that enables you to keep your state in a store and each component can access the state that it needs from this store. 
 * Has a central store that holds entire state of the application 
 * Each component can access the stored state without having to send down props from one component to another 
-*  ** Building parts**: actions, store, and reducers (which we will review below) 
+* **Building parts**: actions, store, and reducers (which we will review below) 
 
 
 **Actions**:  
@@ -95,7 +95,7 @@ State management gets messy as the app gets complex. A state management tool lik
 6.	Can be used for **server-side rendering**. You can handle the initial render of the app by sending the state of an app to the server along with its response to the server request. The required components are then rendered in HTML and sent to the clients 
 
 
-**Resources: **
+**Resources:**
 
 https://redux.js.org/basics/basic-tutorial 
 
