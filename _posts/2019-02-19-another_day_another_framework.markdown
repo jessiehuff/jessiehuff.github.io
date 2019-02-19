@@ -27,7 +27,7 @@ Example of structure:
 
 
 
-We can** bind to attributes using square brackets [ ]**. 
+We can **bind to attributes using square brackets [ ]**. 
  
 For example, we might want to disable a button after it has been clicked.
 
