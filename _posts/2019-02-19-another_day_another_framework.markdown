@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Another Day, Another Framework"
-date:       2019-02-19 21:27:39 +0000
+date:       2019-02-19 16:27:40 -0500
 permalink:  another_day_another_framework
 ---
 
 One of my favorite things in the world is trying new things, and I’ve recently been trying out Angular. Having a pretty solid understanding of React, it seems that there are a lot of similarities between the two frameworks. While I haven’t been learning Angular long, I thought I’d cover some basics I’ve learned so far. 
 
-# Components and Modules
+## Components and Modules
 
 Components are the building blocks of an Angular application, just like in React. A **component** in Angular is a class that serves as a controller for the user interface. It consists of three parts – some TypeScript code, an HTML template, and CSS styles. 
 
@@ -19,7 +19,7 @@ Example of structure:
  
  
 
-# Databinding
+## Databinding
 
 **Binding**- a way to connect data from the TypeScript code to the HTML. 
 
@@ -71,7 +71,7 @@ export class SomeComponent {
 
 
 
-# Loading Components: 
+## Loading Components: 
 1.	Declare the component in the HTML
 `<app-cool></app-cool>`
 
@@ -82,7 +82,7 @@ export class SomeComponent {
 Convert it to a web component with Angular Elements. This allows us to export a component to be used outside of Angular altogether. 
 
 
-# Directives
+## Directives
 
 **Directives** allow you to extend HTML elements with custom attributes. They are instructions for the DOM. Angular comes with several built-in directives:
 * *ngIf - Renders some HTML if condition is true.
@@ -162,7 +162,7 @@ One of the most common component patters in Angular is the smart-dumb pattern - 
 Your smart components are concerned with how the code works while the dumb component deals with how it looks.
 
 
-# Lifecycle Hooks 
+## Lifecycle Hooks 
 
 By far the most common Lifecycle hook is ngOnInit which happens after the class is instantiated and the data-bound properties have been checked. You use this hook to perform any logic needed right away, like fetching data with HTTP calls, form setup, property definitions, and stuff like that.
 
